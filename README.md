@@ -23,3 +23,6 @@ How can Cyclistic use digital media to influence casual riders to become members
 This report will seek to deliver on the following objectives:
 
 How do annual members and casual riders use Cyclistic bikes differently?
+
+## Tool Use
+I use Excel to do the analysis for each month's report, then I merge them into a full-year view to perform my final analysis.

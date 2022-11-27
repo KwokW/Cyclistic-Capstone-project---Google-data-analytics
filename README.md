@@ -25,4 +25,7 @@ This report will seek to deliver on the following objectives:
 How do annual members and casual riders use Cyclistic bikes differently?
 
 ## Tool Use
-I use Excel to do the analysis for each month's report because the files are too big. Then I merge them into a full-year view to perform my final analysis.
+I use Excel to do the analysis for each month's report (from 1/22 to 10/22) because the files are too big. Then I merge them into a full-year view to perform my final analysis.
+
+The data can be download from the link here:
+https://divvy-tripdata.s3.amazonaws.com/index.html
